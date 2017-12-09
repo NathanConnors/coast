@@ -9,10 +9,6 @@ class Item {
     this.interactionMaker(room);
   }
 
-  itemMaker () {
-    
-  }
-
   descriptionMaker () {
 
   }

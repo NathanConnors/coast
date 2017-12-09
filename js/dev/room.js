@@ -96,33 +96,31 @@ class Room {
       this.roomDescription = `As you step onto the tacky laminate tile that signifies you've entered the kitchen, you see more evidence that you were certainly living here alone. There's dishes piled in the sink, hardly any appliances to be seen excect a 1980's model Mr. Coffee pot, and as for food it looks like you've been flying through your rations of oatmeal and cereal based on the empty boxes that are stacked on the counter top. The window in here seems to have stayed somewhat less frozen than the others in the house thanks to the exterior light that is placed right above it but it still is difficult to see out of thanks to the snow and ice. On the floor there is a small pellet food dispenser on it that is half full. The name Muffin is printed ont eh side of the dish and likely belongs to a pet dog that is nowhere to be seen. The fridge has an old honey-do list stuck to the front of it by a UFO magnet, but nothing else is found on it besides dust. A number of cabinets remain closed and the few that are open have little else besides a few random dishes inside them.`;
     }
     if(this.room == "Bedroom") {
-      this.roomDescription = ``;
+      this.roomDescription = `<p>The bedroom is supposed to be the most personal space in an entire home. There's always been a stigma about walking into someone else's room without permission, people are always going to clean their bedrooms when they have company just to prepare for the off chance that someone rudely wanders into the room, and because of this caution the bedroom becomes more of an extension of one's self rather than just a another space to keep your things in. That said, if this room represents who you are as a person then you might want to take some time to gather your thoughts and cleanse your mind. The bedroom is not suprisingly clean compared to the other rooms in the house, in fact you're now starting to understand why you chose to stay on the futon through so many of these cold winter nights. The bed itself is covered with half a dozen boxes, each of them with their lids either barely sitting atop them or falling right due to the amoun tof maila folders and documents stuffed into each one. At one point these might have been alphabetized but now they've descended into chaos. The bed itself looks like it was once quite comfortable before it was covered with documents and left to gather dust for weeks o end.</p><p>To the side of the bed you see a night stand with a disconnected old lan-line phone, a glass of water and a used ash tray. The drawer on the night stand is partially open as if it was asking you to investigate it's contents. Along the window still, just in front of the crinkled blinds, are a number of toys from someo fyour favorite television shows, most of them paranormal investigators or famous pop-culture aliens. In front of the sliding door that leads to the closet is a pull up bar. There's an old tube televesion stationed in front of the bed with a VHS player stacked on top of it, looking likt's about to slide right off and drag the whole thing into the ground. Delicately placed atop the VHS player area  few unmarked black tabapes with no box or labels nearby to offer a hint as to what is recorded on them.</p>`;
     }
     if(this.room == "Attic") {
-      this.roomDescription = `
-        <p>As you pull down the old, creaky, step ladder that leads up into the attic you are immediately greeted by cobwebs. The attic hasn't been visited in quite a while and you wonder why you haven't been using it for storage other than the fact that this room has always given you the creeps. As you proceed up the stairwell you see more cob webs, a small round window, a number of boxes and some torn up insulation which might explain why the living room has been feeling colder than usual lately. You wonder what little critter has been chewing up the insulation but aren't sure if you want to get the answer.</p>
-        <p>As you step off the steps you have to hunch over to make sure that you can move easily without bumping your head. You procedd to the center of the room, watching a few small insects scatter away into the darkness, frightened now that you're intruding upon their home.</p>`;
+      this.roomDescription = `<p>As you pull down the old, creaky, step ladder that leads up into the attic you are immediately greeted by cobwebs. The attic hasn't been visited in quite a while and you wonder why you haven't been using it for storage other than the fact that this room has always given you the creeps. As you proceed up the stairwell you see more cob webs, a small round window, a number of boxes and some torn up insulation which might explain why the living room has been feeling colder than usual lately. You wonder what little critter has been chewing up the insulation but aren't sure if you want to get the answer.</p><p>As you step off the steps you have to hunch over to make sure that you can move easily without bumping your head. You procedd to the center of the room, watching a few small insects scatter away into the darkness, frightened now that you're intruding upon their home.</p>`;
     }
     if(this.room == "Exterior Home - Front") {
-      this.roomDescription = ``;
+      this.roomDescription = `Howling wolves`;
     }
     if(this.room == "Truck") {
-      this.roomDescription = ``;
+      this.roomDescription = `No description`;
     }
     if(this.room == "Exterior Home - Back") {
-      this.roomDescription = ``;
+      this.roomDescription = `No description`;
     }
     if(this.room == "Workshed") {
-      this.roomDescription = ``;
+      this.roomDescription = `No description`;
     }
     if(this.room == "Road to House") {
-      this.roomDescription = ``;
+      this.roomDescription = `No description`;
     }
     if(this.room == "Rooftop") {
-      this.roomDescription = ``;
+      this.roomDescription = `No description`;
     }
     if(this.room == "Basement") {
-      this.roomDescription = ``;
+      this.roomDescription = `No description`;
     }
   }
 }
